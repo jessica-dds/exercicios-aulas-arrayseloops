@@ -1,0 +1,11 @@
+const nomesDeEstudantes = ['jose', 'joao', 'maria', 'joana', 'andreia', 'alice'];
+
+nomesDeEstudantes.push('pedro'); //acrescenta pedro
+nomesDeEstudantes.push('pedro');
+nomesDeEstudantes.push('pedro');
+nomesDeEstudantes.push('pedro');
+nomesDeEstudantes.pop(); // retira o ultimo item de uma array
+nomesDeEstudantes.pop();
+nomesDeEstudantes.pop();
+
+console.log(nomesDeEstudantes);
